@@ -16,3 +16,15 @@ A passionate Web developer from India
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
+
+Gaurav = { 
+            information : {
+            status : "Software Developer",
+            <!-- company: "Srijan Technologies" -->
+           },
+           
+            self_code : ["C","HTML","CSS","JavaScript"],
+            self_interest : ("Problem Solving")
+}
+console.log(Gaurav);          
