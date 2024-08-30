@@ -6,8 +6,8 @@ A passionate Web developer from India
 
 
 
-- 🔭 I’m currently working on Portfolio-2024
-- 🌱 I’m currently learning JAVA , JS
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning JAVA , JS, Python
 <!-- 
   👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
